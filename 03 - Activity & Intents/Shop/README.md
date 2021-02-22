@@ -1,0 +1,6 @@
+# Android Shop
+
+Források:
+
+- https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training#0
+- https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#0
