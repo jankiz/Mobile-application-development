@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Smart Phone</item>
+        <item>Tablet</item>
+        <item>Gaming PC</item>
+        <item>Oled TV</item>
+        <item>Kerékpár</item>
+        <item>Lego</item>
+        <item>Jelmez</item>
+        <item>Sport eszközök</item>
+        <item>Konyhai eszközök</item>
+        <item>Bútor</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Ez egy okos telefon!</item>
+        <item>Ez egy tablet!</item>
+        <item>Ez egy gamer pc!</item>
+        <item>Ez egy OLED TV!</item>
+        <item>Ez egy kerékpár!</item>
+        <item>Ez egy lego!</item>
+        <item>Ez egy jelmez!</item>
+        <item>Ezek sport eszközök!</item>
+        <item>Ezek konyhai eszküzök!</item>
+        <item>Ez egy bútor!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/smart_phone</item>
+        <item>@drawable/tablet</item>
+        <item>@drawable/pc</item>
+        <item>@drawable/oled_tv</item>
+        <item>@drawable/bike</item>
+        <item>@drawable/lego</item>
+        <item>@drawable/custome</item>
+        <item>@drawable/sport_tools</item>
+        <item>@drawable/kitchen</item>
+        <item>@drawable/furniture</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>100 Dv</item>
+        <item>150 Dv</item>
+        <item>500 Dv</item>
+        <item>300 Dv</item>
+        <item>180 Dv</item>
+        <item>70 Dv</item>
+        <item>20 Dv</item>
+        <item>30 Dv</item>
+        <item>15 Dv</item>
+        <item>90 Dv</item>
+    </array>
+</resources>
